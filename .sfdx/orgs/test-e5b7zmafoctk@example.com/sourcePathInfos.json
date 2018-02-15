@@ -2,15 +2,16 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1518720240824,
             "changeTime": 1518720240824,
+            "contentHash": "ea0e116a34589803164b8772b2c8a46f06b28646",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
-            "contentHash": "ea0e116a34589803164b8772b2c8a46f06b28646"
+            "isArtifactRoot": true
         }
     ],
     [
@@ -23,7 +24,7 @@
             "changeTime": 1518715588844,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -33,10 +34,10 @@
         {
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1518717111275,
-            "changeTime": 1518717111275,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "size": 224,
+            "modifiedTime": 1518723308739,
+            "changeTime": 1518723308739,
+            "contentHash": "887c18dbdfa051746daf1764f46b5c9d1c405aaa",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -44,29 +45,30 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1518721113262,
             "changeTime": 1518721113262,
+            "contentHash": "f12ac00d1bf391e9ef80c5689b9dc1453e5a06d6",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
-            "contentHash": "f12ac00d1bf391e9ef80c5689b9dc1453e5a06d6"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
-            "modifiedTime": 1518720324712,
+            "modifiedTime": 1518723337668,
             "changeTime": 1518720324712,
-            "isWorkspace": true,
-            "contentHash": "b46723700ea8c9292956ee43e1ff64ef7e71f07e"
+            "contentHash": "b46723700ea8c9292956ee43e1ff64ef7e71f07e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -79,7 +81,9 @@
             "changeTime": 1518717111226,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -92,7 +96,9 @@
             "changeTime": 1518717346469,
             "contentHash": "d1a1eb772e3fed1007b74cb653278a2257356d9d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -105,7 +111,9 @@
             "changeTime": 1518717364245,
             "contentHash": "c8c7eb16008d7b17df4b377876e88238b626e1d0",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -118,7 +126,9 @@
             "changeTime": 1518717321203,
             "contentHash": "06f9cff462b3b6aa517280b41c23d585f22e9050",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -131,20 +141,22 @@
             "changeTime": 1518717334684,
             "contentHash": "62acb819720373d4aa0d30d34e5844c93af678d9",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 699,
-            "modifiedTime": 1518717111276,
-            "changeTime": 1518717111276,
-            "contentHash": "a7cf6894800661d719a97f15cf9fb97f1573e577",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 812,
+            "modifiedTime": 1518723867832,
+            "changeTime": 1518723867832,
+            "contentHash": "d73a85b8bbbf75d3f22b267e9d4ebf34d608cfae"
         }
     ],
     [
@@ -157,7 +169,9 @@
             "changeTime": 1518717111225,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -170,7 +184,9 @@
             "changeTime": 1518717111222,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -183,7 +199,9 @@
             "changeTime": 1518717111221,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -196,7 +214,9 @@
             "changeTime": 1518717111274,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -209,7 +229,9 @@
             "changeTime": 1518717111276,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -222,7 +244,9 @@
             "changeTime": 1518720246392,
             "contentHash": "915d2514e7b0dd191aa807f6a18a9a26c3e06147",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -235,254 +259,320 @@
             "changeTime": 1518720240824,
             "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1518721067943,
             "changeTime": 1518721067943,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1518721113267,
             "changeTime": 1518721113267,
-            "contentHash": "c55c10465605b8ca4be8c15dde68ca869f41342a"
+            "contentHash": "c55c10465605b8ca4be8c15dde68ca869f41342a",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518721067942,
             "changeTime": 1518721067942,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1518721076349,
             "changeTime": 1518721076349,
-            "contentHash": "138279633413b089197f1390ae1b51ceab35448c"
+            "contentHash": "138279633413b089197f1390ae1b51ceab35448c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1518721067937,
             "changeTime": 1518721067937,
-            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9"
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1518721084449,
             "changeTime": 1518721084449,
-            "contentHash": "bb8c2100d63a87bdf08f22f0c80caa4eb449c5df"
+            "contentHash": "bb8c2100d63a87bdf08f22f0c80caa4eb449c5df",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1518721067943,
             "changeTime": 1518721067943,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518721067941,
             "changeTime": 1518721067941,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1518721067938,
             "changeTime": 1518721067938,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518721067939,
             "changeTime": 1518721067939,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518721067940,
             "changeTime": 1518721067940,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 66,
             "modifiedTime": 1518721120240,
             "changeTime": 1518721120240,
-            "contentHash": "2bdceb76257ae619638ab4850b1c53362b161d6b"
+            "contentHash": "2bdceb76257ae619638ab4850b1c53362b161d6b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 251,
             "modifiedTime": 1518721113263,
             "changeTime": 1518721113263,
-            "contentHash": "105c14a4e488efc6a1f11f7c1d341601307dcc3c"
+            "contentHash": "105c14a4e488efc6a1f11f7c1d341601307dcc3c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518721113267,
             "changeTime": 1518721113267,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.css",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1518721113264,
             "changeTime": 1518721113264,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518721113266,
             "changeTime": 1518721113266,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorAppController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorAppController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1518721113264,
             "changeTime": 1518721113264,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorAppHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorAppHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518721113264,
             "changeTime": 1518721113264,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorAppRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura/AccountLocatorApp/AccountLocatorAppRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518721113265,
             "changeTime": 1518721113265,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1518723308740,
+            "changeTime": 1518723308740,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518723308740,
+            "changeTime": 1518723308740,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

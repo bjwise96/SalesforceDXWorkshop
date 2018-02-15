@@ -16,4 +16,8 @@
         <object>Account</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>Account_Locator</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
