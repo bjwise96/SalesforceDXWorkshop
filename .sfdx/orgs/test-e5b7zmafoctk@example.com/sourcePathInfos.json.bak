@@ -2,14 +2,14 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1518715588844,
             "changeTime": 1518715588844,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1518715588844,
             "changeTime": 1518715588844,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1518717111275,
             "changeTime": 1518717111275,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1518715588844,
             "changeTime": 1518715588844,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop",
         {
-            "state": "n",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1518715675135,
             "changeTime": 1518715675135,
             "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1518717111226,
             "changeTime": 1518717111226,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -92,10 +92,10 @@
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9756,
-            "modifiedTime": 1518717111242,
-            "changeTime": 1518717111242,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "size": 9626,
+            "modifiedTime": 1518717346469,
+            "changeTime": 1518717346469,
+            "contentHash": "d1a1eb772e3fed1007b74cb653278a2257356d9d"
         }
     ],
     [
@@ -105,10 +105,10 @@
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9708,
-            "modifiedTime": 1518717111253,
-            "changeTime": 1518717111253,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "size": 9578,
+            "modifiedTime": 1518717364245,
+            "changeTime": 1518717364245,
+            "contentHash": "c8c7eb16008d7b17df4b377876e88238b626e1d0"
         }
     ],
     [
@@ -118,10 +118,10 @@
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9756,
-            "modifiedTime": 1518717111265,
-            "changeTime": 1518717111265,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "size": 9626,
+            "modifiedTime": 1518717321203,
+            "changeTime": 1518717321203,
+            "contentHash": "06f9cff462b3b6aa517280b41c23d585f22e9050"
         }
     ],
     [
@@ -131,88 +131,114 @@
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9708,
-            "modifiedTime": 1518717111274,
-            "changeTime": 1518717111274,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "size": 9578,
+            "modifiedTime": 1518717334684,
+            "changeTime": 1518717334684,
+            "contentHash": "62acb819720373d4aa0d30d34e5844c93af678d9"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 699,
             "modifiedTime": 1518717111276,
             "changeTime": 1518717111276,
-            "contentHash": "a7cf6894800661d719a97f15cf9fb97f1573e577"
+            "contentHash": "a7cf6894800661d719a97f15cf9fb97f1573e577",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1518717111225,
             "changeTime": 1518717111225,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1518717111222,
             "changeTime": 1518717111222,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1518717111221,
             "changeTime": 1518717111221,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1518717111274,
             "changeTime": 1518717111274,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1518717111276,
             "changeTime": 1518717111276,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 323,
+            "modifiedTime": 1518720246392,
+            "changeTime": 1518720246392,
+            "contentHash": "915d2514e7b0dd191aa807f6a18a9a26c3e06147"
+        }
+    ],
+    [
+        "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Google Drive/Projects/SalesforceDXWorkshop/force-app/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1518720240824,
+            "changeTime": 1518720240824,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488"
         }
     ]
 ]
